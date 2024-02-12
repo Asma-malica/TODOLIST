@@ -45,6 +45,6 @@ function App() {
       {showPopup && <Updatetask task = {tasktoUpdate} updatetask = {updatetask} removePopup = {() => setShowPopup(!showPopup)}/>}
     </div>
   )
-}
+  }
 
 export default App
