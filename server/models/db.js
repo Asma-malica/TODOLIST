@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Use environment variables for better flexibility (optional)
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/todolist';
+const MONGODB_URI =  'mongodb+srv://asmamalica:Asma%402004@todo-list.7lttipi.mongodb.net/todolist?retryWrites=true&w=majority';
 
 mongoose.connect(MONGODB_URI, {
     useNewUrlParser: true,
