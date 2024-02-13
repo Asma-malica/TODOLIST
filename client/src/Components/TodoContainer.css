@@ -1,0 +1,26 @@
+.todo-container {
+    max-width: 600px; /* Adjust as needed */
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f5f5f5; /* Light gray background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  .todo-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .quote {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* .content {
+    /* Add styles if needed */
+  
